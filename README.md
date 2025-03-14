@@ -20,7 +20,7 @@ I’m excited to continue leveraging data to solve complex challenges and drive 
 - Data engineering best practices  
 
 **🧑‍💻 Hobbies:**
-- **Hiking** 🏞️ – Exploring nature and staying active  
+- **Hiking & Camping** 🏞️ – Exploring nature and staying active  
 - **Photography** 📸 – Capturing moments and landscapes  
 - **Traveling** 🌍 – Discovering new cultures and experiences
 
