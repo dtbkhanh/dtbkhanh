@@ -15,10 +15,10 @@ I’m excited to continue leveraging data to solve complex challenges and drive 
 - Advanced **analytics and visualization techniques** to tell even more powerful data stories
 
 💡 **Let's Talk About:**  
-- Building **data pipelines** for efficient data processing and analysis  
 - Exploring **Machine Learning** to uncover hidden patterns and drive insights  
 - Creating **interactive dashboards** that help visualize data and support decision-making  
 - Discussing **advanced analytics techniques** to solve complex problems and tell compelling data stories
+- Building **data pipelines** for efficient data processing and analysis  
 
 **🧑‍💻 Hobbies:**
 - **Hiking & Camping** 🏞️ – Exploring nature and staying active  
