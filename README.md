@@ -25,7 +25,8 @@ I’m excited to continue leveraging data to solve complex challenges and drive 
 - **Photography** 📸 – Capturing moments and landscapes  
 - **Traveling** 🌍 – Discovering new cultures and experiences
 
-📫 **Connect with Me:**  
+📫 **Connect with Me:**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dtbkhanh/) 
 [![Blog](https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=bookstack&logoColor=white)](https://dtbkhanh.github.io/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dtbkhanh)
