@@ -17,8 +17,7 @@ I’m excited to continue leveraging data to solve complex challenges and drive 
 💡 **Let's Talk About:**  
 - Exploring **Machine Learning** to uncover hidden patterns and drive insights  
 - Creating **interactive dashboards** that help visualize data and support decision-making  
-- Discussing **advanced analytics techniques** to solve complex problems and tell compelling data stories
-- Building **data pipelines** for efficient data processing and analysis  
+- Discussing **advanced analytics techniques** to solve complex problems and tell compelling data stories 
 
 **🧑‍💻 Hobbies:**
 - **Hiking & Camping** 🏞️ – Exploring nature and staying active  
